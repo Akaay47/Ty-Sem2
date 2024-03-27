@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="item.css"?>
+<Items>
+       <Item>
+             <ItemNo>1</ItemNo>
+             <ItemName>Camera</ItemName>
+             <ItemPrice>200.00</ItemPrice>
+             <Quantity>5</Quantity>
+       </Item>
+       <Item>
+             <ItemNo>1</ItemNo>
+             <ItemName>Phone</ItemName>
+             <ItemPrice>1000.00</ItemPrice>
+             <Quantity>2</Quantity>
+       </Item>
+       <Item>
+             <ItemNo>1</ItemNo>
+             <ItemName>Pen</ItemName>
+             <ItemPrice>700.00</ItemPrice>
+             <Quantity>70</Quantity>
+       </Item>
+       <Item>
+             <ItemNo>1</ItemNo>
+             <ItemName>Watch</ItemName>
+             <ItemPrice>2100.00</ItemPrice>
+             <Quantity>2</Quantity>
+       </Item>
+       <Item>
+             <ItemNo>1</ItemNo>
+             <ItemName>Book</ItemName>
+             <ItemPrice>300.00</ItemPrice>
+             <Quantity>6</Quantity>
+       </Item>
+</Items>       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+             
